@@ -10,7 +10,7 @@
 -
 -
 Arduino Uno
- 2 LED’s
+2 LED’s
 2 Resistores de 220Ω para o LED
 Fios de conexão
 Protoboard
